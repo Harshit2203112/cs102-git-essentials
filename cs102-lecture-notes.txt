@@ -4,3 +4,7 @@ git clean : Removes untracked files from the working directory. This is the logi
 git clone : Creates a copy of an existing Git repository. Cloning is the most common way for developers to obtain a working copy of a central repository.
 git status : Displays the state of the working directory and the staged snapshot. You’ll want to run this in conjunction with git add and git commit to see 
              exactly what is being included in the next snapshot.
+
+	     summmay
+today i learned about markdown. i learned how to create a markdown file in git. how to see the changes before commit to the previous commit. I learned how to push a repository. learned that there is a lot to learn , i will try tolook
+what sir has sent. now i finish my editting here.
